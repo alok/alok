@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alok)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alok)
 
 Will fund strange projects, hit me up.
 <!--
