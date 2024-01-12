@@ -1,4 +1,4 @@
-Interested in
+Math + AI 🙂
 
 
 <!--
