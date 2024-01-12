@@ -1,7 +1,9 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=alok)
+Interested in
 
-Will fund strange projects, hit me up.
+
 <!--
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=alok)
 **alok/alok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
